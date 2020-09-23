@@ -1,0 +1,29 @@
+body{
+    padding: 10px;
+
+}
+
+.rocky{
+
+    height: 500px;
+    width: 400px;
+    background: rgb(223, 200, 108);
+}
+
+img{
+    width: 300px;
+    margin-top: 10px;
+}
+h1{
+    color: darkblue;
+}
+h3{
+    color: rgb(112, 90, 33);
+}
+
+
+p{
+    font-size: 20px;
+    color: darkslateblue;
+background-color: dimgray;
+}
